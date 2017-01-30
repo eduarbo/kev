@@ -1,8 +1,6 @@
-# kev
-Keyboard Event Visualizer
-
-Observe all Keyboard events from `/private/var/log/system.log` and Visualize
-useful statistics about in real time.
+# Description
+**Keyboard Event Visualizer** observes all Keyboard events from
+`/private/var/log/system.log` and Visualize useful statistics in real time.
 
 # Requirements
 
